@@ -1,0 +1,58 @@
+.header {
+  display: flex;
+}
+
+.title {
+  font-stretch: expanded;
+  margin: auto;
+  font-size: 80px;
+  font-family: serif;
+  color: orange;
+}
+
+.body {
+  display: block;
+}
+
+.main {
+  display: flex;
+  font-family: serif;
+
+}
+
+.care_tips_right {
+  flex: 0.75;
+  padding: 0 0 0 20px;
+}
+
+.main_left {
+  flex: 1;
+}
+
+.fish {
+  border: 2px solid #014aad;
+  border-radius: 20px;
+
+}
+
+.section--quotes {
+  border: 2px solid #014aad;
+  border-radius: 20px;
+}
+
+.section--locations {
+  border: 2px solid #014aad;
+  border-radius: 20px;
+}
+
+.location__caption {
+  padding-left: 1.15in;
+  border-radius: 20px;
+}
+
+.footer {
+  display: flex;
+  font-size: 15px;
+  text-align: center;
+  justify-content: space-evenly;
+}
