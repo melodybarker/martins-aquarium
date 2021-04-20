@@ -3,7 +3,7 @@
 }
 
 .title {
-  font-stretch: expanded;
+  display: flex;
   margin: auto;
   font-size: 80px;
   font-family: serif;
